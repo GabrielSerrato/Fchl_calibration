@@ -1,6 +1,4 @@
 
-cd('C:\Users\fribeiro\Desktop\Gabi')
-
 file=strcat('data\raw_data.txt');
 D=load(file);
 
